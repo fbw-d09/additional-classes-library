@@ -28,6 +28,16 @@ atomicHabbits.isBookAvailable() //Atomic Habbits is currently available.
 ```
 
 ---
+
+### Bonus 
+
+- try to add a Customer class
+- think about properties the customer class could have
+- maybe you would also like to add some private fields for personal details in the customer class?
+- you could check, if the book, which the customer intends to lend, is an instance of the book class
+- when the book has been lend out to the customer, the property `isCurrentlyAvailable` would change to `false`
+
+
 Happy Coding! :keyboard::woman_technologist::man_technologist:
 
 

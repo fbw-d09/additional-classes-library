@@ -24,7 +24,7 @@ The constructor should take 3 parameters initializing those properties. For exam
 The class should also have a method called `isBookAvailable()`
 
 ```js
-atomicHabbits.isBookAvailable() //Atomic Habbits is currently available.
+atomicHabbits.isBookAvailable() //Atomic Habbits from James Clear is currently available.
 ```
 
 ---

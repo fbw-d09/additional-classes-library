@@ -31,11 +31,10 @@ atomicHabbits.isBookAvailable() //Atomic Habbits from James Clear is currently a
 ### Bonus 
 
 - try to add a Customer class
-- think about properties the customer class could have
+- think about properties the Customer class could have
 - maybe you would also like to add some private fields for personal details to the Customer class?
 - you could check, if the book, which the customer intends to borrow, is an instance of the Book class
 - when the book has been lend out to the customer, the property `isCurrentlyAvailable` would change to `false`
-
 
 ---
 

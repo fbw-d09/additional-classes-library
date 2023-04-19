@@ -12,7 +12,7 @@ Write a Book class that should have 4 properties
 - an isbn as a number
 - isCurrentlyAvailable as a boolean (true as a default value)
 
-The constructor should take 4 parameters initializing those properties. For example
+The constructor should take 3 parameters initializing those properties. For example
 
 
 ```js

@@ -38,6 +38,9 @@ atomicHabbits.isBookAvailable() //Atomic Habbits is currently available.
 - when the book has been lend out to the customer, the property `isCurrentlyAvailable` would change to `false`
 
 
+---
+
+
 Happy Coding! :keyboard::woman_technologist::man_technologist:
 
 

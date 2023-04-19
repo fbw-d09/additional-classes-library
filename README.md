@@ -28,8 +28,7 @@ atomicHabbits.isBookAvailable() //Atomic Habbits is currently available.
 ```
 
 ---
-
-	:desktop_computer: Happy Coding! :keyboard::woman_technologist::man_technologist:
+Happy Coding! :keyboard::woman_technologist::man_technologist:
 
 
 

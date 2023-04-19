@@ -8,9 +8,12 @@ Your task is to create a Book class representing a library.
 Write a Book class that should have 4 properties
 
 a title as a string
+
 an author as a string
 an isbn as a number
+
 isCurrentlyAvailable as a boolean (true as a default value)
+
 The constructor should take 4 parameters initializing those properties. For example
 
 

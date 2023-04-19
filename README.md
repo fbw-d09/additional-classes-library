@@ -4,8 +4,6 @@
 
 Your task is to create a Book class representing a library.
 
-1. Book
-
 Write a Book class that should have 4 properties
 
 - a title as a string
